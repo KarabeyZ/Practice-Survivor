@@ -1,0 +1,6 @@
+@Practice_Survivor_HostAddress = http://localhost:5032
+
+GET {{Practice_Survivor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
