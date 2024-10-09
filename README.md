@@ -1,1 +1,1 @@
-# Practice-Survivor
+Survivor yarışması için bir Web API uygulaması oluşturuldu. Bu uygulama, yarışmacılar ve kategoriler arasında bir ilişki içeriyor ve bu ilişkilerle ilgili CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren API endpointler içermektedir.
